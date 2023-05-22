@@ -1,0 +1,9 @@
+// const   usuario = ["Antonio", 11594623, true];
+const   usuario = ["Juan", 22789546, false];
+
+console.log(usuario);
+console.log();
+console.log("Nombre= "+usuario[0]+
+            ", DNI= "+usuario[1]+
+            ", Casado? T/F= "+usuario[2]);
+
